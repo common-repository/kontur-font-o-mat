@@ -1,0 +1,14 @@
+/* kontur Font-O-Mat*/
+.kntrfnt {
+  --kntrfnt-style: 0; }
+
+
+.components-button.has-icon {
+justify-content: start;
+min-width: 36px;
+}
+
+
+.edit-post-visual-editor .components-button.has-icon svg {
+margin-right: 3px;
+}
